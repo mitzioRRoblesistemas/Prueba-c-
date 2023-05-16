@@ -1,0 +1,12 @@
+/home/dev/c/lib/libcdm/bin/Debug/net6.0/libcdm.deps.json
+/home/dev/c/lib/libcdm/bin/Debug/net6.0/libcdm.dll
+/home/dev/c/lib/libcdm/bin/Debug/net6.0/ref/libcdm.dll
+/home/dev/c/lib/libcdm/bin/Debug/net6.0/libcdm.pdb
+/home/dev/c/lib/libcdm/obj/Debug/net6.0/libcdm.csproj.AssemblyReference.cache
+/home/dev/c/lib/libcdm/obj/Debug/net6.0/libcdm.GeneratedMSBuildEditorConfig.editorconfig
+/home/dev/c/lib/libcdm/obj/Debug/net6.0/libcdm.AssemblyInfoInputs.cache
+/home/dev/c/lib/libcdm/obj/Debug/net6.0/libcdm.AssemblyInfo.cs
+/home/dev/c/lib/libcdm/obj/Debug/net6.0/libcdm.csproj.CoreCompileInputs.cache
+/home/dev/c/lib/libcdm/obj/Debug/net6.0/libcdm.dll
+/home/dev/c/lib/libcdm/obj/Debug/net6.0/ref/libcdm.dll
+/home/dev/c/lib/libcdm/obj/Debug/net6.0/libcdm.pdb
